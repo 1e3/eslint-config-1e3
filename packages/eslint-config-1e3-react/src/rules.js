@@ -30,6 +30,15 @@ const rules = {
   'prefer-template': ERROR,
   'class-methods-use-this': OFF,
   'require-yield': OFF,
+  'prettier/prettier': [
+    'error',
+    {
+      printWidth: 100,
+      semi: false,
+      singleQuote: true,
+      trailingComma: 'all',
+    },
+  ],
 }
 
 const concatenatedRules = Object.assign(
