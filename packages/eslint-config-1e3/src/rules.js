@@ -28,9 +28,25 @@ const rules = {
   'no-confusing-arrow': OFF,
   'no-use-before-define': OFF,
   'prefer-template': ERROR,
-  'prettier/prettier': ERROR,
+  'prettier/prettier': [
+    'error',
+    {
+      printWidth: 100,
+      semi: false,
+      singleQuote: true,
+      trailingComma: 'all',
+    },
+  ],
   'require-yield': OFF,
   semi: OFF,
+  quotes: [
+    WARN,
+    'single',
+    {
+      avoidEscape: true,
+      allowTemplateLiterals: true,
+    },
+  ],
 }
 
 module.exports = rules

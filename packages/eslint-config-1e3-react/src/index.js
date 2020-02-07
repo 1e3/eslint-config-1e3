@@ -2,7 +2,7 @@ const rules = require('./rules')
 
 module.exports = {
   parser: 'babel-eslint',
-  extends: ['airbnb', '@1e3/eslint-config-1e3'],
+  extends: ['airbnb', '1e3'],
   env: {
     browser: true,
     node: true,
