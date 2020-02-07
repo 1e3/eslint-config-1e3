@@ -1,0 +1,36 @@
+{
+  "name": "eslint-config-1e3-react",
+  "version": "0.0.0",
+  "description": "ESLint shareable config for 1e3's React projects",
+  "author": "Rafael Franco <rafaelfr@outlook.com>",
+  "homepage": "https://github.com/1e3/eslint-config-1e3#readme",
+  "license": "MIT",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1e3/eslint-config-1e3.git"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "peerDependencies": {
+    "eslint-config-1e3": "^0.0.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-react-hooks": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint-config-1e3": "^0.0.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-react-hooks": "^2.3.0"
+  }
+}

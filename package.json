@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "description": "ESLint shareable config for 1e3's projects",
+  "scripts": {
+    "release": "lerna publish --yes --conventional-commits"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
