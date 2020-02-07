@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-1e3",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint shareable config for 1e3's JS projects",
   "author": "Rafael Franco <rafaelfr@outlook.com>",
   "homepage": "https://github.com/1e3/eslint-config-1e3#readme",

@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-1e3-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint shareable config for 1e3's React projects",
   "author": "Rafael Franco <rafaelfr@outlook.com>",
   "homepage": "https://github.com/1e3/eslint-config-1e3#readme",
@@ -27,7 +27,7 @@
     "eslint-plugin-react-hooks": "^2.3.0"
   },
   "devDependencies": {
-    "eslint-config-1e3": "^0.1.0",
+    "eslint-config-1e3": "^0.1.1",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.18.3",
