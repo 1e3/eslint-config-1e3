@@ -1,11 +1,7 @@
 # `eslint-config-1e3`
 
-> TODO: description
-
-## Usage
+ESLint shareable config for 1e3's Node.js projects
 
 ```
-const eslintConfig1E3Base = require('eslint-config-1e3');
-
-// TODO: DEMONSTRATE API
+yarn add eslint-config-1e3 --dev
 ```

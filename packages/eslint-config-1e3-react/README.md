@@ -1,11 +1,7 @@
 # `eslint-config-1e3-react`
 
-> TODO: description
-
-## Usage
+ESLint shareable config for 1e3's React projects
 
 ```
-const eslintConfig1E3React = require('eslint-config-1e3-react');
-
-// TODO: DEMONSTRATE API
+yarn add eslint-config-1e3-react --dev
 ```
