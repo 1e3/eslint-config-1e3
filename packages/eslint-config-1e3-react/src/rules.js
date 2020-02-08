@@ -31,8 +31,9 @@ const rules = {
   'class-methods-use-this': OFF,
   'require-yield': OFF,
   'prettier/prettier': [
-    'error',
+    ERROR,
     {
+      arrowParens: 'avoid',
       printWidth: 100,
       semi: false,
       singleQuote: true,
