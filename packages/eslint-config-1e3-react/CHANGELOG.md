@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.7 (2020-02-08)
+
+
+### Bug Fixes
+
+* update prettier config ([e39be09](https://github.com/1e3/eslint-config-1e3/commit/e39be091dd1c5f89f1637c38b7cbe9410e94cd41))
+
+
+
+
+
 ## 0.1.6 (2020-02-08)
 
 
