@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.6 (2020-02-08)
+
+
+### Bug Fixes
+
+* update arrow-parens rule ([65d5fbe](https://github.com/1e3/eslint-config-1e3/commit/65d5fbeb695c03b86c83f321f18790e7223c4d57))
+
+
+
+
+
 ## 0.1.5 (2020-02-07)
 
 **Note:** Version bump only for package eslint-config-1e3
