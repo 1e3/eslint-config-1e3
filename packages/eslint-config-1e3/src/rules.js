@@ -1,7 +1,7 @@
 const { OFF, WARN, ERROR } = require('./constants')
 
 const rules = {
-  'arrow-parens': [ERROR, 'always'],
+  'arrow-parens': [ERROR, 'as-needed'],
   'arrow-body-style': [ERROR, 'as-needed'],
   'class-methods-use-this': OFF,
   'comma-dangle': [ERROR, 'always-multiline'],
