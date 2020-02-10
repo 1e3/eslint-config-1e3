@@ -17,4 +17,4 @@ const rules = {
 	],
 }
 
-module.exports = { ...rules, ...importRules }
+module.exports = Object.assign({}, rules, importRules)

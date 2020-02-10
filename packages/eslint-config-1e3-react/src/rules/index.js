@@ -1,6 +1,6 @@
 const { ERROR } = require('../constants')
 
-const react = require('./react')
+const reactRules = require('./react')
 
 const rules = {
 	'prettier/prettier': [
@@ -17,4 +17,5 @@ const rules = {
 	],
 }
 
-module.exports = { ...rules, ...react }
+module.exports = Object.assign({}, rules, reactRules)
+
