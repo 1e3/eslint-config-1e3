@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.13 (2020-02-10)
+
+
+### Bug Fixes
+
+* change folder structure ([94124d1](https://github.com/1e3/eslint-config-1e3/commit/94124d112444ad0f61120ddfa8e3394c521cf751))
+
+
+
+
+
 ## 0.1.12 (2020-02-10)
 
 
