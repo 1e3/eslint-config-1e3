@@ -30,6 +30,6 @@ yarn add eslint-config-1e3-react --dev
 
 ## License
 
-ISC License at [LICENSE.md]
+MIT License at [LICENSE.md]
 
 [license.md]: ./LICENSE.md
