@@ -5,7 +5,7 @@
   "author": "Rafael Franco <rafaelfr@outlook.com>",
   "homepage": "https://github.com/1e3/eslint-config-1e3#readme",
   "license": "MIT",
-  "main": "src/index.js",
+  "main": "index.js",
   "files": [
     "src"
   ],
