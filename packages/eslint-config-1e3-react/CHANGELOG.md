@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.9 (2020-02-10)
+
+
+### Bug Fixes
+
+* update rules ([1335ed0](https://github.com/1e3/eslint-config-1e3/commit/1335ed067d24f74b0548c8dfa824d6b77e16e0d3))
+
+
+
+
+
 ## 0.1.8 (2020-02-08)
 
 
