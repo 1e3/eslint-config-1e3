@@ -1,5 +1,3 @@
-const rules = require('./rules/index')
-
 module.exports = {
 	env: {
 		browser: true,
@@ -17,5 +15,4 @@ module.exports = {
 		},
 	},
 	plugins: ['react', 'react-hooks', 'jsx-a11y', 'prettier'],
-	rules,
 }

@@ -1,5 +1,3 @@
-const rules = require('./rules')
-
 module.exports = {
 	env: {
 		browser: true,
@@ -13,6 +11,5 @@ module.exports = {
 		ecmaVersion: 6,
 		sourceType: 'module',
 	},
-	plugins: ['prettier'],
-	rules,
+	plugins: ['prettier']
 }
