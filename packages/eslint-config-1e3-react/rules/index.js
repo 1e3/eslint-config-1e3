@@ -18,4 +18,3 @@ const rules = {
 }
 
 module.exports = Object.assign({}, rules, reactRules)
-
