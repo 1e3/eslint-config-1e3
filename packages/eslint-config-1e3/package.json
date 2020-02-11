@@ -6,9 +6,6 @@
   "homepage": "https://github.com/1e3/eslint-config-1e3#readme",
   "license": "MIT",
   "main": "index.js",
-  "files": [
-    "src"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/1e3/eslint-config-1e3.git"
