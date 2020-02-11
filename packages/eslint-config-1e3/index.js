@@ -1,4 +1,4 @@
-const rules = require('./rules/index')
+const rules = require('./rules')
 
 module.exports = {
 	env: {
@@ -7,7 +7,7 @@ module.exports = {
 		jest: true,
 		es6: true,
 	},
-	extends: ['airbnb-base', 'prettier'],
+	extends: ['eslint:recommended', 'airbnb-base', 'prettier'],
 	parser: 'babel-eslint',
 	parserOptions: {
 		ecmaVersion: 6,
