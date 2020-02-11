@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.19 (2020-02-11)
+
+
+### Bug Fixes
+
+* add .eslintignore ([fc31f91](https://github.com/1e3/eslint-config-1e3/commit/fc31f9141c77e9bb81fe5016abad31f651a7300b))
+
+
+
+
+
 ## 0.1.18 (2020-02-11)
 
 
