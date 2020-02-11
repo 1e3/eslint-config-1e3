@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.17 (2020-02-11)
+
+
+### Bug Fixes
+
+* fix import rules ([e6c89c1](https://github.com/1e3/eslint-config-1e3/commit/e6c89c17baf3b68c9607f5bada788abf2226cbf5))
+
+
+
+
+
 ## 0.1.16 (2020-02-11)
 
 **Note:** Version bump only for package eslint-config-1e3
