@@ -5,12 +5,16 @@
   "author": "Rafael Franco <rafaelfr@outlook.com>",
   "homepage": "https://github.com/1e3/eslint-config-1e3#readme",
   "license": "MIT",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/1e3/eslint-config-1e3.git"
   },
+  "files": [
+    "dist"
+  ],
   "scripts": {
+    "build": "rollup -c",
     "lint": "eslint ."
   },
   "peerDependencies": {
@@ -28,7 +32,6 @@
     "prettier": "^1.19.1"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.3",
     "eslint": "^6.8.0",
     "eslint-config-1e3": "^0.1.20",
     "eslint-config-airbnb": "^18.0.1",
