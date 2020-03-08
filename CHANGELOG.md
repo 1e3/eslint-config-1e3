@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.24 (2020-03-08)
+
+
+### Bug Fixes
+
+* disable indent rule ([9ed96d5](https://github.com/1e3/eslint-config-1e3/commit/9ed96d5de5cc9dfa37ec87a9409934f8a0f9c397))
+
+
+
+
+
 ## 0.1.23 (2020-02-12)
 
 **Note:** Version bump only for package eslint-config-1e3
